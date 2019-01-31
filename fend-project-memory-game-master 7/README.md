@@ -22,7 +22,9 @@ Some styling to the classes, specialy the popup classes and adding animation to 
 . Then we have to create the ( moves , timer , rating ,restart button , popup)
 . Without forgetting to call the basic cards bord at the end.
 
-
+# How to play
+Simply you have to Match the Cards , as soon as you can , and if you finish it in 10 moves you will have 3 stars!
+. Just open the html file with any prowser and Start play!!.
 
 
 
